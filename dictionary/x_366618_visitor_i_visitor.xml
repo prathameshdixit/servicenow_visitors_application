@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="visitor" max_length="40" name="x_366618_visitor_i_visitor" sizeclass="4" type="collection">
+        <element label="address" max_length="200" name="address" type="string"/>
+        <element label="Address1" max_length="32" name="address1" reference="x_366618_visitor_i_location" type="reference"/>
+        <element label="email" max_length="20" name="email" type="string"/>
+        <element label="in date" max_length="40" name="in_date" type="glide_date"/>
+        <element label="in time" max_length="40" name="in_time" type="glide_date_time"/>
+        <element label="name" max_length="20" name="name" type="string"/>
+        <element label="out date" max_length="40" name="out_date" type="glide_date"/>
+        <element label="out time" max_length="40" name="out_time" type="glide_date_time"/>
+        <element label="phone" max_length="20" name="phone" type="integer"/>
+        <element label="purpouse" max_length="50" name="purpouse" type="string"/>
+        <element label="whom to meet" max_length="20" name="whom_to_meet" type="string"/>
+    </element>
+</database>

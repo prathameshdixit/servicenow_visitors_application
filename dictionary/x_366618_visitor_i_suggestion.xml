@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="suggestion" max_length="40" name="x_366618_visitor_i_suggestion" type="collection">
+        <element label="complaint" max_length="500" name="complaint" type="string"/>
+    </element>
+</database>

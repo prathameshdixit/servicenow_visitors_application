@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="visitorfeedback" section_id="0d996424dbc27300b6a0487039961940" sys_domain="global" table="sys_db_object" version="3" view="visit1">
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>visitorfeedback</caption>
+            <header>false</header>
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 17:11:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0d996424dbc27300b6a0487039961940</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>visitorfeedback</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="visitor info" source="x_366618_visitor_i">8655dc60db427300b6a04870399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor info">8655dc60db427300b6a04870399619ce</sys_scope>
+            <sys_update_name>sys_ui_section_0d996424dbc27300b6a0487039961940</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 17:11:30</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="visit1" name="visit1">fa79ac64dbc27300b6a048703996190b</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

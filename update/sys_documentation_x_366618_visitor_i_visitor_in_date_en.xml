@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="in_date" label="in date" language="en" table="x_366618_visitor_i_visitor">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>in_date</element>
+            <help/>
+            <hint/>
+            <label>in date</label>
+            <language>en</language>
+            <name>x_366618_visitor_i_visitor</name>
+            <plural>in dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 15:50:54</sys_created_on>
+            <sys_id>942754e4db827300b6a048703996197c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>in date</sys_name>
+            <sys_package display_value="visitor info" source="x_366618_visitor_i">8655dc60db427300b6a04870399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor info">8655dc60db427300b6a04870399619ce</sys_scope>
+            <sys_update_name>sys_documentation_x_366618_visitor_i_visitor_in_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 15:50:54</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

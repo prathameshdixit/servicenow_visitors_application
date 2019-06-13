@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="5dd8e424dbc27300b6a0487039961954" sys_domain="global" table="sys_db_object" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 17:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19d8e424dbc27300b6a0487039961955</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_db_object" name="sys_db_object" sys_domain="global" view="b5b8e824dbc27300b6a0487039961992">5dd8e424dbc27300b6a0487039961954</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="sys_db_object" sys_domain="global" view="b5b8e824dbc27300b6a0487039961992">fdb8a464dbc27300b6a0487039961991</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 17:08:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 17:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dd8e424dbc27300b6a0487039961956</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="sys_db_object" name="sys_db_object" sys_domain="global" view="b5b8e824dbc27300b6a0487039961992">5dd8e424dbc27300b6a0487039961954</sys_ui_form>
+            <sys_ui_section caption="visitor feedback1" display_value="visitor feedback1" name="sys_db_object" sys_domain="global" view="b5b8e824dbc27300b6a0487039961992">ddd8e424dbc27300b6a0487039961955</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 17:08:14</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>sys_db_object</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-11 17:08:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5dd8e424dbc27300b6a0487039961954</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_db_object</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="visitor info" source="x_366618_visitor_i">8655dc60db427300b6a04870399619ce</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="visitor info">8655dc60db427300b6a04870399619ce</sys_scope>
+            <sys_update_name>sys_ui_form_sections_5dd8e424dbc27300b6a0487039961954</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-11 17:08:14</sys_updated_on>
+            <sys_user/>
+            <view display_value="feedback1" name="feedback1">b5b8e824dbc27300b6a0487039961992</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

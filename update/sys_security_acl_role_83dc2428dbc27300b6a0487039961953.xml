@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-11 17:25:50</sys_created_on>
+        <sys_id>83dc2428dbc27300b6a0487039961953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366618_visitor_i_visitor_query.x_366618_visitor_i.visitor_query_user</sys_name>
+        <sys_package display_value="visitor info" source="x_366618_visitor_i">8655dc60db427300b6a04870399619ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="visitor info">8655dc60db427300b6a04870399619ce</sys_scope>
+        <sys_security_acl display_value="x_366618_visitor_i_visitor_query">c7dc2428dbc27300b6a0487039961950</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_83dc2428dbc27300b6a0487039961953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-11 17:25:50</sys_updated_on>
+        <sys_user_role display_value="x_366618_visitor_i.visitor_query_user" name="x_366618_visitor_i.visitor_query_user">c7dce8e4dbc27300b6a04870399619b4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
